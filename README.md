@@ -52,7 +52,7 @@ Kemudian lihat hasilnya.<br>
 Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.<br>
 ![gambar12](screenshot/12.png)<br>
 ![gambar12b](screenshot/12b.png)<br>
-![gambar13](screenshot/13)
+![gambar13](screenshot/13.png)
 
 ### Mengatur Layout Main dan Sidebar
 Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.<br>
@@ -85,6 +85,33 @@ Kemudian tambahkan CSS.<br>
 ![gambar24](screenshot/24.png)<br>
 Tampilan browser.<br>
 ![gambar25](screenshot/25.png)
+
+
+## Pertanyaan dan Tugas.
+1. Tambahkan Layout untuk menu About<br>
+=> buat single layout yang berisi deskripsi, portfolio, dll.<br>
+ >**jawab**
+ > Membuat dokumen HTML dengan nama file <b>about.html</b>.<br>
+ ![gambar26](screenshot/26.png)<br>
+ > kemudian tambahkan <b>css</b>.<br>
+ ![gambar27](screenshot/27.png)<br>
+ Berikut tampilan Pada Browser.<br>
+ ![gambar28](screenshot/28.png)<br><br>
+2. Tambahkan layout untuk menu Contact<br>
+=> yang berisi form isian: nama, email, message, dll<br>
+>**jawab**
+>> Membuat dokumen HTML dengann nama file <b>kontak.html</b><br>
+![gambar29](screenshot/29.png)<br>
+> Kemudian tambahkan <b>CSS</b>.<br>
+![gambar30](screenshot/30.png)
+> Berikut Tampilan Pada Browser.<br>
+![gambar31](screenshot/31.png)<br><br>
+HASIL PEMOGRAMAN WEB SAYA.
+
+**TERIMAKASIH**
+
+
+
 
 
 
