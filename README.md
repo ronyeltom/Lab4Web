@@ -91,7 +91,7 @@ Tampilan browser.<br>
 1. Tambahkan Layout untuk menu About<br>
 => buat single layout yang berisi deskripsi, portfolio, dll.<br>
  >**jawab**
- > Membuat dokumen HTML dengan nama file <b>about.html</b>.<br>
+ >> Membuat dokumen HTML dengan nama file <b>about.html</b>.<br>
  ![gambar26](screenshot/26.png)<br>
  > kemudian tambahkan <b>css</b>.<br>
  ![gambar27](screenshot/27.png)<br>
