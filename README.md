@@ -17,11 +17,11 @@ Kemudian buka browser untuk melihat hasilnya.
 ### Mengatur Clearfix Element
  ~<b>Clearfix<b> digunakan untuk mengatur element setelah float element. Property clear digunakan untuk
 mengaturnya.<br>
-Tambahkan element div lainnya seteleah div3 seperti berikut.
+Tambahkan element div lainnya seteleah div3 seperti berikut.<br>
 ![gambar4b](screenshot/4b.png)
-Kemudian atur property clear pada CSS, seperti berikut.
-![gambar4c](screenshot/4c.png)
-Selanjutnya buka browser dan refresh kembali.
-![gambar4d](screenshot/4d.png)
+Kemudian atur property clear pada CSS, seperti berikut.<br>
+![gambar4c](screenshot/4c.png)<br>
+Selanjutnya buka browser dan refresh kembali.<br>
+![gambar4d](screenshot/4d.png)<br>
 Lakukan eksperimen terhadap penggunaan property clear dengan nilai lainnya (left, both, right),
 dan amati perubahannya.
